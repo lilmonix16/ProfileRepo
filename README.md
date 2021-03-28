@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadapudu
 - 👀 I’m interested in anything that i interested
-- 🌱 I’m currently learning how manage mylife
+- 🌱 I’m currently learning how managing mylife
 - 📫 How to reach me instagram:emumarer
 
 <!---
