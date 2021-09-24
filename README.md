@@ -1,7 +1,7 @@
 - 👋 Hi, I’m umar
 - 👀 I’m interested in anything that i interested
 - 🌱 I’m currently learning how managing mylife
-- 📫 How to reach me instagram:emumarer
+- 📫 how to reach me : emumarer@gmail.com
 
 <!---
 sadapudu/sadapudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
